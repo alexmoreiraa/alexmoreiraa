@@ -24,3 +24,5 @@
 </div>
 
 ![Snake animation](https://github.com/alexmoreiraa/alexmoreiraa/blob/output/github-contribution-grid-snake.svg)
+
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=alexmoreiraa&repo=alexmoreiraa&theme=react)](https://github.com/alexmoreiraa/alexmoreiraa)
