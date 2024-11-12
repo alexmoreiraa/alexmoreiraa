@@ -1,7 +1,7 @@
 ## Olá me chamo Alex Moreira 👋
 
 - 💻 Cursando Análise e desenvolvimento de sistemas.
-- 📚 Aprofundando meus estudo em programação Front-end e Back-end
+- 📚 Aprofundando meus estudos em programação Front-end e Back-end
   
 <a href="https://github.com/alexmoreiraa/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=alexmoreiraa&show_icons=true&theme=transparent" />
