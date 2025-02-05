@@ -1,6 +1,6 @@
 ## Olá me chamo Alex Moreira 👋
 
-- 💻 Cursando Análise e desenvolvimento de sistemas.
+- 💻 Sou formado em Análise e desenvolvimento de sistemas.
 - 📚 Aprofundando meus estudos em programação Front-end e Back-end
   
 <a href="https://github.com/alexmoreiraa/github-readme-stats">
